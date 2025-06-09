@@ -1,0 +1,6 @@
+,T-Statistic,T-Statistic,T-Statistic,P-Value,P-Value,P-Value,Significance,Significance,Significance
+Dependent Variable,EPU_stationary,PCA_Index_diff,SYS_stationary,EPU_stationary,PCA_Index_diff,SYS_stationary,EPU_stationary,PCA_Index_diff,SYS_stationary
+Independent Variable,,,,,,,,,
+EPU_stationary,,0.587,2.323,,0.559,0.022,,,<0.05
+PCA_Index_diff,1.862,,0.177,0.065,,0.86,<0.1,,
+SYS_stationary,1.67,1.087,,0.098,0.279,,<0.1,,
