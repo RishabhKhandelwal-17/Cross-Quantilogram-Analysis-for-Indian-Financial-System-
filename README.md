@@ -5,12 +5,12 @@ This research project investigates the dynamic interrelationships between Econom
 
 Our findings reveal that:
 
-EPU has a strong and immediate influence on systemic risk, particularly during periods of financial instability.
+  1. EPU has a strong and immediate influence on systemic risk, particularly during periods of financial instability.
 
-Macroeconomic shocks affect systemic risk with a significant time lag, offering a policy window for mitigating interventions.
+  2. Macroeconomic shocks affect systemic risk with a significant time lag, offering a policy window for mitigating interventions.
 
-The relationship between MS and EPU is weak and delayed, indicating limited causal feedback.
+  3. The relationship between MS and EPU is weak and delayed, indicating limited causal feedback.
 
 We construct EPU indices using newspaper-based keyword search, estimate systemic risk using the ΔCoVaR approach via DCC-GARCH modeling, and extract macroeconomic shock indices through principal component analysis of various Indian macroeconomic indicators.
 
-This project highlights the critical role of transparent and proactive policymaking in managing systemic vulnerabilities in emerging economies. The repository contains code, data processing scripts, and visualization tools for replicating our empirical analysis.
+This project highlights the critical role of transparent and proactive policymaking in managing systemic vulnerabilities in emerging economies. The repository contains [code](https://github.com/RishabhKhandelwal-17/Cross-Quantilogram-Analysis-for-Indian-Financial-System-/tree/main/code), [data](https://github.com/RishabhKhandelwal-17/Cross-Quantilogram-Analysis-for-Indian-Financial-System-/tree/main/data%20and%20results) and a [comprehensive report](https://github.com/RishabhKhandelwal-17/Cross-Quantilogram-Analysis-for-Indian-Financial-System-/blob/main/report.docx) outlining methodology and results. 
